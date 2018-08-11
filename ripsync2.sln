@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ripsync2", "ripsync2.csproj", "{4334318C-63E3-08AF-0A0D-4B3329D2099C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ripsync2.Editor", "ripsync2.Editor.csproj", "{0C019DB0-6729-24D0-1985-9AA000C63530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4334318C-63E3-08AF-0A0D-4B3329D2099C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4334318C-63E3-08AF-0A0D-4B3329D2099C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4334318C-63E3-08AF-0A0D-4B3329D2099C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4334318C-63E3-08AF-0A0D-4B3329D2099C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C019DB0-6729-24D0-1985-9AA000C63530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C019DB0-6729-24D0-1985-9AA000C63530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C019DB0-6729-24D0-1985-9AA000C63530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C019DB0-6729-24D0-1985-9AA000C63530}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
